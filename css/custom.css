@@ -22,7 +22,9 @@ body {
 .header {
     padding: 15px 0;
 }
-
+.header{
+margin: 45px 0 0px;
+}
 .header .logo img {
     max-width: 250px;
     width: 100%;
@@ -66,7 +68,6 @@ body {
 
 .product-section h4 {
     color: #e00026;
-    font-size: 17px;
     font-weight: bold;
 }
 
